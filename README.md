@@ -19,12 +19,12 @@ Command Line Interface - Develop a command line app that prompts the user to sel
 function to execute and allows the user to gracefully exit the app when desired. The menu
 should be displayed after each function (although a GUI is not required, you are permitted to
 create one) unless the user exits. For now, the app must have the following functionalities.
-1. Body Mass Index - Input height in feet and inches. Input weight in pounds. Return
+1. __Body Mass Index__ - Input height in feet and inches. Input weight in pounds. Return
 BMI value and category: Underweight = <18.5; Normal weight = 18.5–24.9;
 Overweight = 25–29.9; Obese = BMI of 30 or greater (see formula linked in the Notes
 & Resources section).
 
-1. Retirement - Input user's current age, annual salary, percentage saved (employer
+1. __Retirement__ - Input user's current age, annual salary, percentage saved (employer
 matches 35% of savings). Input desired retirement savings goal. Output what age
 savings goal will be met. You can assume death at 100 years (therefore, indicate if the
 savings goal is not met).
