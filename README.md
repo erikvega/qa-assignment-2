@@ -28,3 +28,6 @@ Overweight = 25–29.9; Obese = BMI of 30 or greater (see formula linked in the 
 matches 35% of savings). Input desired retirement savings goal. Output what age
 savings goal will be met. You can assume death at 100 years (therefore, indicate if the
 savings goal is not met).
+
+# How to Run
+Run main.py and it will take care of getting all the functionality from bmi_api.py and retirement_api.py
