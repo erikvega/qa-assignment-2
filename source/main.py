@@ -62,7 +62,8 @@ def retirementProgram():
     savingsPerYear = calculateSavingsPerYear(salary, percentSaved)
     yearsUntilGoal = calulateYearsUntilGoal(goal, savingsPerYear)
     ageWhenMet = calculateAgeWhenMet(age, yearsUntilGoal)
-    print(printRetirementPlan(ageWhenMet))
+    printStatement = printRetirementPlan(ageWhenMet)
+    print(printStatement)
 
 
 main()
